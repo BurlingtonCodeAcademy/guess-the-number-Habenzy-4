@@ -8,6 +8,7 @@ function ask(questionText) {
 }
 
 start();
+//more changes
 
 async function start() {
   console.log("Let's play a game where you (human) make up a number and I (computer) try to guess it.")
